@@ -1,37 +1,49 @@
-📊 Executive Performance Dashboard (Power BI)
-📌 Project Overview
+# 📊 Executive Financial Performance Dashboard
 
-This project is an executive-level Financial Performance Dashboard built using Power BI to support strategic decision-making.
+## 📌 Overview
+This project is an executive-level **Financial Performance Dashboard** built using Power BI to support data-driven decision-making.  
 
-It provides leadership teams with a clear view of Actual vs Budget performance, profitability trends, cost structure, and regional revenue contribution, enabling faster and data-driven business decisions.
+The dashboard provides a clear comparison of **Actual vs Budget performance**, tracks **Year-to-Date (YTD) trends**, and analyzes **profitability and regional revenue contribution**.
 
-🎯 Business Objectives
+It is designed to help leadership teams quickly evaluate business performance and identify areas requiring strategic attention.
 
-Evaluate financial performance against budget targets
-Identify revenue growth patterns and cost drivers
-Monitor Year-to-Date (YTD) trends for proactive planning
-Analyze regional performance to uncover growth opportunities
-Highlight variance gaps to support corrective actions
+---
 
-📊 Key Business Insights Delivered
+## 🎯 Business Objectives
 
-📌 Clear comparison of Actual vs Budget performance
-📌 Variance analysis to identify over/under performance
-📌 Net Profit YTD tracking for profitability monitoring
-📌 Detailed P&L breakdown (Revenue, COGS, Operating & Other Expenses)
-📌 Region-wise revenue contribution analysis
-📌 Interactive filters enabling dynamic business exploration
+- Compare Actual performance against Budget targets  
+- Monitor profitability through Net Profit YTD tracking  
+- Identify revenue trends and cost drivers  
+- Analyze region-wise performance contribution  
+- Highlight variance gaps for corrective action  
 
-🧠 Analytical Approach
+---
 
-Structured financial data was transformed and modeled using Power BI to ensure accuracy and performance.
+## 📊 Key Insights Delivered
 
-DAX measures were implemented for:
+- 📌 KPI summary (Total Actual, Total Budget, Variance, Net Profit YTD)  
+- 📈 Monthly Actual YTD vs Budget YTD comparison  
+- 💰 Detailed P&L breakdown (Revenue, COGS, Operating & Other Expenses)  
+- 🌍 Region-wise revenue analysis  
+- 🎛 Interactive slicers for dynamic filtering (Year, Month, Region)  
 
-YTD Calculations
+---
 
-Variance Analysis
+## 🧠 Analytical Approach
 
-KPI Monitoring
+- Structured data modeling for optimized performance  
+- DAX measures for YTD calculations and variance analysis  
+- Clean, executive-friendly visual design  
+- Drill-down capability for deeper performance evaluation  
 
-Trend Evaluation
+---
+
+## 🛠 Tools & Technologies
+
+- Power BI Desktop  
+- DAX (Data Analysis Expressions)  
+- Power Query (Data Transformation)  
+- Microsoft Excel (Data Source)  
+- Data Modeling & Visualization  
+
+---
